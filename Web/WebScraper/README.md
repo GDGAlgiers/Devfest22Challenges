@@ -1,10 +1,12 @@
 # Web Scraper Challenge (Medium) <!-- omit in toc -->
 
 - [Introduction](#introduction)
-- [Requirements](#requirements)
-- [Notes](#notes)
-- [Expectations](#expectations)
 - [Problem Statement](#problem-statement)
+  - [Website Details](#website-details)
+  - [JSON File structure](#json-file-structure)
+- [Requirements](#requirements)
+- [Expectations](#expectations)
+- [Setup](#setup)
 
 ## Introduction
 
@@ -17,34 +19,6 @@ As you know nowadays it's no secret that data is what matters most. and we at **
 Unfortunately that's not the case with every website out there. happy for you it's exactly what we need you for today.
 
 Your challenge if you are brave enough to take it, is to create a web scraper, that's given a website it should extract all the required information from it.
-
-## Requirements
-
-1. Solution must be written in **Javascript** or **Typescript**.
-2. Solution must not use a 3rd party SaaS service.
-3. Solution Must use the provided starter code.
-4. Solution can use any **JS/TS** library.
-
-## Notes
-
-- Sharing your solution publicly may disqualify you.
-
-> **Warning**: Add notes on how challengers should submit their challenge solutions later. (need to discuss with the team)
-
-## Expectations
-
-- This challenge should take around **2** to **3** hours to complete.
-- Your web scraper needs to gather all required information.
-- We value a **clean**, **simple** working solution.
-
-## Setup
-
-To get you started with this challenge, we have provided you with a starting point. so you need first to copy to your local environment the `starter` folder you see next to this challenge. and install all the dependencies:
-
-```bash
-cd starter-folder
-npm install
-```
 
 ## Problem Statement
 
@@ -61,7 +35,7 @@ You will find bellow the website address and the required credentials to login, 
 
 ### Website details
 
-- **URL**: <https://recipes-heaven.vercel.app>
+- **URL**: <https://devfest-recipes-heaven.netlify.app>
 - **Username**: `gdg_algiers`
 - **Password**: `devfest2022`
 
@@ -71,22 +45,42 @@ You will find bellow the website address and the required credentials to login, 
 {
   "recipes": [
     {
-      "id": "1e2bd8ef-4979-5a2b-b0b8-8f47dfcb5158",
-      "title": "Simple gingerbread house",
-      "prep_time": "2 hrs",
-      "cooking_time": "30 mins",
-      "ingredients": [
-        "250g unsalted butter",
-        "200g dark muscovado sugar",
-        "7 tbsp golden syrup",
-        "600g plain flour",
-        "2 tsp bicarbonate of soda",
-        "4 tsp ground ginger"
-      ]
+      "id": 1,
+      "name": "Homemade Cinnamon Rolls",
+      "slug": "homemade-cinnamon-rolls",
+      "keywords": "bake sale",
+      "description": "Nothing says Sunday morning like a warm",
+      "thumbnail_url": "https://img.buzzfeed.com/video-api-prod/assets/9d589367531e4c12a4937e30e521c865/fbthumb.jpg",
+      "cook_time": 151,
+      "ratings_negative": 475,
+      "ratings_positive": 17340,
+      "score": 98,
     },
     ...
   ]
 }
+```
+
+## Requirements
+
+1. Solution must be written in **Javascript** or **Typescript**.
+2. Solution must not use a 3rd party SaaS service.
+3. Solution must use the provided starter code.
+4. Solution can use any **JS/TS** library.
+
+## Expectations
+
+- This challenge should take around **2** to **3** hours to complete.
+- Your web scraper needs to gather all required information.
+- We value a **clean**, **simple** working solution.
+
+## Setup
+
+To get you started with this challenge, we have provided you with a starting point. so you need first to copy to your local environment the `starter` folder you see next to this challenge. and install all the dependencies:
+
+```bash
+cd starter-folder
+npm install
 ```
 
 Good luck and happy hunting buddy.
