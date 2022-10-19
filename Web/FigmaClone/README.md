@@ -61,6 +61,7 @@ To get you started with this challenge, we have provided you with a starting poi
 ```bash
 cd starter-folder
 npm install
+npm run dev
 ```
 
 **[⬆ back to top](#introduction)**
