@@ -1,0 +1,33 @@
+# DevFest Challenge - Password strength (Easy)
+
+- [Introduction](#introduction)
+- [Problem Statement](#problem-statement)
+- [Requirements](#requirements)
+- [Expectations](#expectations)
+- [Notes](#notes)
+
+## Introduction
+
+Sliders are functional user interface units that organize pieces of information in a condensed and cyclical manner within a limited space. They are built with transition effects to avoid abrupt changes from one block of content to another to make an incredible user experience.
+
+## Problem Statement
+
+A startup decided to improve its website and boost their marketing following a set of strategies.
+This challenge's goal is to help out enhance their website by adding a testimonials swiper section on their website, by implementing the design of the UI/UX team.
+
+### Ressources
+
+Here is the design that needs to be implemented : [Figma link](https://www.figma.com/proto/MIrksOSWGoZtc9XqN9bqur/Swiper-Animation-Challenge?node-id=1%3A145).
+
+## Requirements
+
+- The solution must have the same animation put in the link above.
+
+## Notes
+
+- You may use external libraries to implement your solution.
+<!-- Need to discuss wether it sould be only HTML CSS AND JS -->
+
+## Expectations
+
+- We expect a working solution that matches the design provided.
