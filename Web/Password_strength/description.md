@@ -30,7 +30,7 @@ This challenge's goal is to implement a password strength calculator that calcul
 - You can assume the average number of attempts per second is **2 Billion attempt per second**.
 - To calculate the time, you need to know which type of characters the user introduced, the length of the password, and finally the number of possible combinations :
 
-  > For a password of length 8, using only lower case letters, the number of possible combinations is $$26^8$$
-  > Assuming the number of attemps per second is 2 Billion : $$T=(26^8/2000000000)$$ seconds.
+  > For a password of length 8, using only lower case letters, the number of possible combinations is $$26^8 combinations$$
+  > Assuming the number of attemps per second is 2 Billion : $$T= \frac{26^8}{2000000000}  seconds.$$
 
 - This challenge should take from one to two hours to complete.
