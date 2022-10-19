@@ -1,4 +1,4 @@
-# DevFest Challenge - Password strength (Easy)
+# DevFest Challenge - Swiper animation (Easy)
 
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
