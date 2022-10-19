@@ -1,13 +1,14 @@
 {
-  "name": "typescript-challenge",
+  "name": "@devfest22/typescript-challenge",
   "version": "1.0.0",
   "description": "DevFest Challenge - Typescript (Medium)",
   "main": "challenge.ts",
+  "type": "module",
   "keywords": [
-    "typescript",
-    "hard"
+    "gdg_algiers",
+    "devfest2022"
   ],
-  "author": "@GDGAlgiers",
+  "author": "GDGAlgiers <gdg.algiers@esi.dz>",
   "license": "MIT",
   "dependencies": {
     "typescript": "^4.8.4"
