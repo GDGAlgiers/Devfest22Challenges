@@ -23,11 +23,11 @@ Here is the design that needs to be implemented : [Figma link](https://www.figma
 
 - The solution must have the same animation put in the link above.
 
+## Expectations
+
+- We expect a working solution that matches the design provided.
+
 ## Notes
 
 - You may use external libraries to implement your solution.
 <!-- Need to discuss wether it sould be only HTML CSS AND JS -->
-
-## Expectations
-
-- We expect a working solution that matches the design provided.
