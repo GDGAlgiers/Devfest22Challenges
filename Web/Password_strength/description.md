@@ -3,8 +3,8 @@
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
 - [Requirements](#requirements)
-- [Notes](#notes)
 - [Expectations](#expectations)
+- [Notes](#notes)
 
 ## Introduction
 
@@ -12,9 +12,9 @@ Passwords are the first line of defense against unauthorized access to our valua
 
 ## Problem Statement
 
-Aiming to sensitize the users of a banking app of how crucial choosing a good password is to protect their financial details, it has been decided to add a new feature to help users see how strong their password it in
+Aiming to sensitize the users of a banking app of how crucial choosing a good password is to protect their financial details, it has been decided to add a new feature to help users see how strong is their password as well as a visual indicator of it.
 
-This challenge's goal is to implement a password strength calculator that calculates how much time it would take to crack a password, and display it to the user.
+This challenge's goal is to implement a password strength calculator that calculates how much time it would take to crack a password, with a colored indicator and display it to the user.
 
 ## Requirements
 
@@ -33,4 +33,10 @@ This challenge's goal is to implement a password strength calculator that calcul
   > For a password of length 8, using only lower case letters, the number of possible combinations is $$26^8 combinations$$
   > Assuming the number of attemps per second is 2 Billion : $$T= \frac{26^8}{2000000000}  seconds.$$
 
-- This challenge should take from one to two hours to complete.
+- You can consider that there are 3 levels of strength :
+
+  - Weak : **timeToCrack ≤ 3 weeks**.
+  - Medium : **3 weeks < timeToCrack ≤ 400 years**.
+  - Strong : **timeToCrack > 400years**
+
+- This challenge should a little over one hour to complete.
