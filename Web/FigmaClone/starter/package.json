@@ -13,7 +13,7 @@
     "gdg_algiers",
     "devfest2022"
   ],
-  "author": "GDGAlgiers <gdg.algiers@esi.dz>",
+  "author": "Mohammed <https://github.com/the-dijkstra>",
   "license": "MIT",
   "devDependencies": {
     "vite": "^3.1.0"

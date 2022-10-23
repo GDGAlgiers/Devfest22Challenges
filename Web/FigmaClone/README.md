@@ -12,7 +12,7 @@ Hey **Challenger** 🤝 ...
 
 Apparently you have a great appetite for our challenges. or maybe you are a **10x engineer** 😎💻?.
 
-Let us introduce our selfs, we are **Scarlet LLC** a digital firm based in USA, Bay Area.
+Let us introduce our selfs, we are **WTM Algiers LLC** a digital firm based in Algiers, Bay Area.
 
 Founded in 2001 we are one of the world's leading innovators and manufacturers of creative video editing technology.
 
@@ -33,10 +33,10 @@ We want for our prototype to be an MVP, and to include the following features:
 - Supports drawing basic shapes (rectangles, ellipses, lines)
 - Supports writing text.
 - Supports changing elements colors.
-- Supports dragging and moving objects in the draw area.
 
 ### Bonus Features
 
+- Supports dragging and moving objects in the draw area.
 - Supports basic embeds (images).
 - Supports custom text properties (size, font, color).
 - Supports free drawing.
@@ -56,7 +56,7 @@ We want for our prototype to be an MVP, and to include the following features:
 
 ## Setup
 
-To get you started with this challenge, we have provided you with a starting point. so you need first to copy to your local environment the `starter` folder you see next to this challenge. and install all the dependencies:
+To get you started with this challenge, we have provided you with a starter code. so you need first to copy to your local environment the `starter` folder you see next to this challenge. and install all the dependencies:
 
 ```bash
 cd starter-folder
