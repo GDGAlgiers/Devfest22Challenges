@@ -1,6 +1,6 @@
 import { Equal, Expect } from "../helpers/type-utils";
 
-// loop through the object keys and reverse each value
+/* _____________ Code goes here _____________ */
 type ReverseObjectValues = never;
 
 /* _____________ Test Cases _____________ */
