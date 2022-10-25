@@ -32,6 +32,7 @@ You, as a Front-end engineer working on that startup, you're given the task to i
 
 ## Expectations
 
+- This challenge should take around **15** to **25** minutes to complete.
 - We expect a working solution that respects the requirements.
 
 ## Notes
