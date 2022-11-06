@@ -1,4 +1,4 @@
-# Phone Input Challenge (Medium)
+# Section Clone Challenge (Medium)
 
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
