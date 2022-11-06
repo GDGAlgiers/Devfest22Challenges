@@ -72,7 +72,7 @@ You will find bellow the website address and the required credentials to login, 
 
 - This challenge should take around **2** to **3** hours to complete.
 - Your web scraper needs to gather all required information.
-- We value a **clean**, **simple** working solution.
+- The scraped dataset must include all recipes available in the website.
 
 ## Setup
 
