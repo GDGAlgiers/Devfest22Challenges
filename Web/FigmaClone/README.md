@@ -42,6 +42,10 @@ We want for our prototype to be an MVP, and to include the following features:
 - Supports free drawing.
 - Supports export/import design documents.
 
+### Wireframe
+
+![App Wirframe](./assets/wireframe.jpg)
+
 ## Requirements
 
 1. Solution must work in a browser.
