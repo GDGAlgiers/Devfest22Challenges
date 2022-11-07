@@ -1,0 +1,21 @@
+author: rx0f
+author_link: https://github.com/rx0f
+category: reverse
+description: |
+  > I used diamonds to verify the input, can you find the correct result ?. 
+
+  **Author**: rx0f
+difficulty: easy
+extra:
+  decay: ${DECAY}
+  initial: 500
+  minimum: 50
+files:
+- ./challenge/diamonds.rb
+flags:
+- DevFest22{aR3nt_d1Am0nD5_c00L?}
+name: "My first diamond"
+state: hidden
+type: dynamic
+value: 500
+version: '0.1'
