@@ -14,7 +14,8 @@ Themes are the foundation for website design, they establish the overall appeara
 
 ## Problem Statement
 
-A startup started running a new business, they built their landing page using HTML&CSS, and to take the website to the next level, they decided to add `theme changer` functionality (Dark theme, Light theme, Blue theme).
+A startup is launching their new website, built using the holy language HTML&CSS__*of-course*.
+But to take this website to the next level, they want to add a `Theme Chooser` functionally and support the following themes ( Dark, Light and a Blue theme).
 
 You, as a Front-end engineer working on that startup, you're given the task to implement the mentioned functionality respecting the following restrictions:
 
@@ -28,7 +29,7 @@ You, as a Front-end engineer working on that startup, you're given the task to i
 ## Requirements
 
 1. The implementation must respect all the mentioned restrictions.
-2. The Delivery must be only ONE HTML file(the one given in the startup folder).
+2. The delivery must be only **ONE HTML file**(the one given in the starter folder).
 
 ## Expectations
 
@@ -38,8 +39,9 @@ You, as a Front-end engineer working on that startup, you're given the task to i
 ## Notes
 
 1. The boilerplate design is already made on the setup, you just need to focus on implementing the new feature.
-2. Necessary colors are given on the startup HTML file.
+2. Necessary colors are given on the starter HTML file.
+3. The implementation of one more theme of your choice is a bonus(+2 pts).
 
 ## Setup
 
-To get you started, we have provided you with a starting point. so you need first to copy to your local environment the `starter` folder you see next to this challenge.
+To get you started, we have provided you with a starting point, so you need first to copy to your local environment the `starter` folder you see next to this challenge.
