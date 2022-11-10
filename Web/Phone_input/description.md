@@ -10,7 +10,7 @@
 
 Phone numbers are a very common type of data, that's heavily collected by websites, be it through a simple registration form, or a full account verification process, you are likely to be asked for a phone number on each website you visit.
 
-Given how commonly-entered phone numbers are, companies have invested a big amount of time in perfecting the best UX/UI for an phone number input.
+Given how commonly-entered phone numbers are, companies have invested a big amount of time in perfecting the best UX/UI for phone number inputs.
 
 ![Phone input](./assets/phone_input_ux.gif)
 
