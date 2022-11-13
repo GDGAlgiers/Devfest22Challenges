@@ -15,11 +15,11 @@ Themes are the foundation for website design, they establish the overall appeara
 ## Problem Statement
 
 A startup is launching their new website, built using the holy language HTML&CSS__*of-course*.
-But to take this website to the next level, they want to add a `Theme Chooser` functionally and support the following themes ( Dark, Light and a Blue theme).
+But to take this website to the next level, they want to add a `Theme Chooser` functionality and support the following themes ( Dark, Light and a Blue theme).
 
 You, as a Front-end engineer working on that startup, you're given the task to implement the mentioned functionality respecting the following restrictions:
 
-- The new feature must be implemented using ONLY CSS.
+- The new feature must be implemented using **ONLY HTML&CSS**.
 - The implementation must be code-optimized, so it will not require too many changes in case of adding a new theme; so a `base-theme` class is already prepared, and it must cover all themes.
   > You must not create a class for each theme, use the base-theme class
 - Adding extra CSS variables is not allowed.
@@ -38,7 +38,7 @@ You, as a Front-end engineer working on that startup, you're given the task to i
 
 ## Notes
 
-1. The boilerplate design is already made on the setup, you just need to focus on implementing the new feature.
+1. The boilerplate design is already made on the starter folder, you just need to focus on implementing the new feature.
 2. Necessary colors are given on the starter HTML file.
 3. The implementation of one more theme of your choice is a bonus(+2 pts).
 
