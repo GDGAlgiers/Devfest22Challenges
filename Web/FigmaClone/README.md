@@ -4,6 +4,7 @@
 - [Problem Statement](#problem-statement)
 - [Requirements](#requirements)
 - [Expectations](#expectations)
+- [Evaluation](#evaluation)
 - [Setup](#setup)
 
 ## Introduction
@@ -39,12 +40,10 @@ We want for our prototype to be an MVP, and to include the following features:
 - Supports dragging and moving objects in the draw area.
 - Supports basic embeds (images).
 - Supports custom text properties (size, font, color).
-- Supports free drawing.
-- Supports export/import design documents.
 
 ### Wireframe
 
-![App Wirframe](./assets/wireframe.jpg)
+![App Wireframe](./assets/wireframe.jpg)
 
 ## Requirements
 
@@ -57,6 +56,10 @@ We want for our prototype to be an MVP, and to include the following features:
 - This challenge should take around **3** to **4** hours to complete.
 - We value a **clean**, **simple** working solution.
 - We expect a working prototype in major browsers.
+
+## Evaluation
+
+This challenge has maximum points of **15** for implementing all the required features. plus a set of bonus points that will be granted if you implement bonus features, for each bonus feature you will earn **3pts**.
 
 ## Setup
 
