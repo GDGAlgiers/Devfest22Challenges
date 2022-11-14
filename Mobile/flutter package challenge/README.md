@@ -1,4 +1,4 @@
-## medium level challenge 
+## flutter package challenge 
 ### motivation 
 if you are a user of the famous framework flutter, you have probably heard the phrase "everything is a widget", I think we all agree with that, but I think we can also say "everything is a package" too.
 since the creation of this framework in 2017, its community was always very active and that either by contributing directly to the heart of the framework or by publishing packages & plugins in [pub.dev](https://pub.dev/).
