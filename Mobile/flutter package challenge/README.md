@@ -9,7 +9,7 @@ if you are a user of google photos, github, facebook and a lot of other applicat
 
 |google photos|github 1|github 2|gdg events app|
 |:------------:|:------------:|:-------------:|:-------------:|
-![google photos](./assets/google_photos.png)|![github 1](./assets/github_members.png)|![github 2](././assets/github_contributers.png)|![gdg events app](./assets/events_app2.png)|
+![google photos](./images/google_photos.png)|![github 1](./images/github_members.png)|![github 2](././images/github_contributers.png)|![gdg events app](./images/events_app2.png)|
 
 ### main objective
 the main goal of this challenge is to realize&publish a package that aims to facilitate the implementation of this kind of widgets , this is an example of how this package should be used (you don't have to follow it).
