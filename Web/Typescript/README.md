@@ -50,6 +50,10 @@ type Result2 = ReverseObjectValues<Result1>;
 - This challenge should take around **1** to **2** hours to complete based on Typescript knowledge.
 - We value a **clean**, **simple** working solution.
 
+## Evaluation
+
+This challenge has maximum points of **7** for implementing all the required features.
+
 ## Setup
 
 To get you started with this challenge, we have provided you with a starting point. so you need first to copy to your local environment the `starter` folder you see next to this challenge. and install all the dependencies:
