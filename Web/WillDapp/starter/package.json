@@ -1,0 +1,16 @@
+{
+  "name": "Devfest22 challenges - Will dapp",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Abdessamed Rezazi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.2"
+  }
+}
