@@ -74,6 +74,10 @@ You will find bellow the website address and the required credentials to login, 
 - Your web scraper needs to gather all required information.
 - The scraped dataset must include all recipes available in the website.
 
+## Evaluation
+
+This challenge has maximum points of **10** for implementing all the required features.
+
 ## Setup
 
 To get you started with this challenge, we have provided you with a starting point. so you need first to copy to your local environment the `starter` folder you see next to this challenge. and install all the dependencies:
