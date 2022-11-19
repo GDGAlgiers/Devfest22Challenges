@@ -1,0 +1,1 @@
+FLAG = 'gdg{Y0U_l34RNt_50M3_845IC_ciPH3R5}'
