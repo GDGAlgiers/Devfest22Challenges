@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, make_response
 
 app = Flask(__name__)
 
@@ -7,9 +7,13 @@ app = Flask(__name__)
 @app.route("/", methods=["GET", "OPTIONS"])
 def index():
     if request.method == "GET":
-        return render_template("index.html")
+        resp = make_response(render_template("index.html"))
+        resp.set_cookie("21232f297a57a5a743894a0e4a801fc3", "68934a3e9455fa72420237eb05902327")
+        return resp
     if request.method == "OPTIONS":
-        return render_template("options.html")
+        resp =  make_response(render_template("options.html"))
+        resp.set_cookie("21232f297a57a5a743894a0e4a801fc3", "68934a3e9455fa72420237eb05902327")
+        return resp
 
 @app.route("/pizza", methods=["GET"])
 def pizza():
@@ -29,7 +33,10 @@ def tacos():
 
 @app.route("/karantika", methods=["GET"])
 def karantika():
-    return {"URL": "https://dpaste.org/pZATZ/raw"}
+    if not request.cookies.get("21232f297a57a5a743894a0e4a801fc3") == "b326b5062b2f0e69046810717534cb09":
+        return render_template("admin.html")
+    else:
+        return {"URL": "https://dpaste.org/pZATZ/raw"}
 
 # Error handlers
 
