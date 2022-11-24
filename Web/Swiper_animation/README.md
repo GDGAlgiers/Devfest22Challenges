@@ -35,3 +35,4 @@ This challenge has maximum points of 7 for implementing all the required feature
 ## Notes
 
 - You may use external libraries to implement your solution.
+- Don't forget to start the prototype in Figma to be able to see the different animations.
