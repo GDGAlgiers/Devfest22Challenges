@@ -4,6 +4,7 @@
 - [Problem Statement](#problem-statement)
 - [Requirements](#requirements)
 - [Expectations](#expectations)
+- [Evaluation](#evaluation)
 - [Notes](#notes)
 
 ## Introduction
@@ -27,7 +28,10 @@ Here is the design that needs to be implemented : [Figma link](https://www.figma
 
 - We expect a working solution that matches the design provided.
 
+## Evaluation
+
+This challenge has maximum points of 7 for implementing all the required features.
+
 ## Notes
 
 - You may use external libraries to implement your solution.
-<!-- Need to discuss wether it sould be only HTML CSS AND JS -->
