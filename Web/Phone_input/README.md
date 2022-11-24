@@ -4,6 +4,7 @@
 - [Problem Statement](#problem-statement)
 - [Requirements](#requirements)
 - [Expectations](#expectations)
+- [Evaluation](#evaluation)
 - [Notes](#notes)
 
 ## Introduction
@@ -35,6 +36,10 @@ Your task today as our hero designer is to implement a fully functioning phone n
 ## Expectations
 
 - We expect a working phone input that matches the provided mockup and specs.
+
+## Evaluation
+
+This challenge has maximum points of 10 for implementing all the required features.
 
 ## Notes
 
