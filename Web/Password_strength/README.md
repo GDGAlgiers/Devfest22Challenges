@@ -4,6 +4,7 @@
 - [Problem Statement](#problem-statement)
 - [Requirements](#requirements)
 - [Expectations](#expectations)
+- [Evaluation](#evaluation)
 - [Notes](#notes)
 
 ## Introduction
@@ -24,6 +25,10 @@ This challenge's goal is to implement a password strength calculator that calcul
 ## Expectations
 
 - We expect a working solution that respects the requirements and is implemented in a user friendly way that is visually appealing.
+
+## Evaluation
+
+This challenge has maximum points of 5 for implementing a working solution.
 
 ## Notes
 
