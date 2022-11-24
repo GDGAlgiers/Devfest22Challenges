@@ -39,7 +39,7 @@ Your task today as our hero designer is to implement a fully functioning phone n
 
 ## Evaluation
 
-This challenge has maximum points of 10 for implementing all the required features.
+This challenge has maximum points of 7 for implementing all the required features.
 
 ## Notes
 
