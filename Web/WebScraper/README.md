@@ -35,7 +35,7 @@ You will find bellow the website address and the required credentials to login, 
 
 ### Website details
 
-- **URL**: <https://devfest-recipes-heaven.netlify.app>
+- **URL**: <https://recipes-heaven.vercel.app>
 - **Username**: `gdg_algiers`
 - **Password**: `devfest2022`
 
