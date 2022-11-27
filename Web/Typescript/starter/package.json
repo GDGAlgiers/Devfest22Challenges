@@ -1,0 +1,16 @@
+{
+  "name": "@devfest22/typescript-challenge",
+  "version": "1.0.0",
+  "description": "DevFest Challenge - Typescript (Medium)",
+  "main": "challenge.ts",
+  "type": "module",
+  "keywords": [
+    "gdg_algiers",
+    "devfest2022"
+  ],
+  "author": "Mohammed <https://github.com/the-dijkstra>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
