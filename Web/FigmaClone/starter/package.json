@@ -1,0 +1,24 @@
+{
+  "name": "@devfest22/figma-clone-challenge",
+  "description": "DevFest 2022 - figma clone challenge (Hard)",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "gdg_algiers",
+    "devfest2022"
+  ],
+  "author": "Mohammed <https://github.com/the-dijkstra>",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "fabric": "^5.2.4"
+  }
+}
