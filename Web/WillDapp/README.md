@@ -31,7 +31,7 @@ As you were a Blockchain developer *__or more precisely, a web3 developer*, you 
 - The fortune division process must be executed automatically after the owner's death.
 - The solidity compiler is configured under the **0.8.17 version**, feel free to change it to your preferred solidity version on `./hardhat.config.js`
 - You may use any CSS framework, or any Javascript framework/library to implement the design.
-- The using of Blockchain development frameworks other than hardhat is not allowed.
+- The use of Blockchain development frameworks other than hardhat is not allowed.
 - A minimalistic design that implements the required functionalities is more than accepted.
 
 ## Evaluation
