@@ -6,6 +6,7 @@
   - [Requirements](#requirements)
   - [Expectations](#expectations)
   - [Notes](#notes)
+  - [Evaluation](#evaluation)
   - [Setup](#setup)
 
 ## Introduction
@@ -32,6 +33,10 @@ As you were a Blockchain developer *__or more precisely, a web3 developer*, you 
 - You may use any CSS framework, or any Javascript framework/library to implement the design.
 - The using of Blockchain development frameworks other than hardhat is not allowed.
 - A minimalistic design that implements the required functionalities is more than accepted.
+
+## Evaluation
+
+This challenge has maximum points of **25** for implementing all the required features.
 
 ## Setup
 
