@@ -6,6 +6,7 @@
   - [Requirements](#requirements)
   - [Expectations](#expectations)
   - [Notes](#notes)
+  - [Evaluation](#evaluation)
   - [Setup](#setup)
 
 ## Introduction
@@ -14,8 +15,8 @@ Themes are the foundation for website design, they establish the overall appeara
 
 ## Problem Statement
 
-A startup is launching their new website, built using the holy language HTML&CSS__*of-course*.
-But to take this website to the next level, they want to add a `Theme Chooser` functionality and support the following themes ( Dark, Light and a Blue theme).
+A startup is launching its new website, built using the holy language HTML&CSS__*of-course*.
+But to take this website to the next level, they want to add a `Theme Chooser` functionality and support the following themes ( Dark, Light, and a Blue theme).
 
 You, as a Front-end engineer working on that startup, you're given the task to implement the mentioned functionality respecting the following restrictions:
 
@@ -40,7 +41,11 @@ You, as a Front-end engineer working on that startup, you're given the task to i
 
 1. The boilerplate design is already made on the starter folder, you just need to focus on implementing the new feature.
 2. Necessary colors are given on the starter HTML file.
-3. The implementation of one more theme of your choice is a bonus(+2 pts).
+
+
+## Evaluation
+
+This challenge has a maximum points of **5** for implementing all the required features.
 
 ## Setup
 
