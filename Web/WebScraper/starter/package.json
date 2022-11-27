@@ -1,0 +1,16 @@
+{
+  "name": "@devfest22/web-scraper-challenge",
+  "version": "1.0.0",
+  "description": "DevFest 2022 - web scraper challenge (Medium)",
+  "main": "scraper.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node src/scraper.mjs"
+  },
+  "keywords": [
+    "gdg_algiers",
+    "devfest2022"
+  ],
+  "author": "Mohammed <https://github.com/the-dijkstra>",
+  "license": "MIT"
+}
