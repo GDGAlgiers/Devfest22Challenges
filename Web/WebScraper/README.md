@@ -35,7 +35,7 @@ You will find bellow the website address and the required credentials to login, 
 
 ### Website details
 
-- **URL**: <https://recipes-heaven.vercel.app>
+- **URL**: <https://devfest22-recipes-heaven.gdgalgiers.com>
 - **Username**: `gdg_algiers`
 - **Password**: `devfest2022`
 
