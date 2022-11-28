@@ -1,0 +1,21 @@
+name: OPTIONS
+author: rx0f
+
+category: web
+difficulty: medium
+
+description: |
+  > I opened an online restaurant, do you think you have all the options?
+  
+  **Author** : rx0f
+
+connection_info: 
+
+flags:
+  - DevFest22{It5_4ll_4B0uT_0pT10n5}
+
+type: standard
+value: 500
+
+state: hidden
+version: '0.1'
