@@ -1,0 +1,25 @@
+author: chenx3n
+author_link: https://github.com/malikDaCoda
+category: pwn
+connection_info: nc -v pwn.chal.ctf.gdgalgiers.com ${PORT}
+description: |
+  > There is no escape, it's just you, me and this printf.  
+
+  **Note**: The binary is already patched to use the provided libc and linker.  
+
+  **Author**: chenx3n
+difficulty: hard
+extra:
+  decay: ${DECAY}
+  initial: 500
+  minimum: 50
+files:
+- ./files/you-me-printf.zip
+flags:
+- DevFest22{Pr0gR4m_fLoW_w0rK5_iN_mySt3rioUs_BUT_UNDer$TAndABLe_WAY$}
+image: gcr.io/gdg-ctf-2022/you-me-printf
+name: "You, Me & Printf"
+state: hidden
+type: dynamic
+value: 500
+version: '0.1'
