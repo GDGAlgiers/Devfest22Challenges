@@ -2,7 +2,7 @@
 
 import random
 
-whitelist = 'abcdefghijklmnopqrstuvwxyz().=|0123456789'
+whitelist = 'abcdefghijklmnopqrstuvwxyz().=|'
 
 def myflag():
     print("DevFest22{XXXXXXXXXXXXXX}")

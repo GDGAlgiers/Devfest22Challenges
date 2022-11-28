@@ -9,7 +9,7 @@ os.setuid(65534)
 
 del os
 
-whitelist = 'abcdefghijklmnopqrstuvwxyz().=|0123456789'
+whitelist = 'abcdefghijklmnopqrstuvwxyz().=|'
 
 def myflag():
     print("DevFest22{An0th3r_JAIL_g0t_brok333333n}")
