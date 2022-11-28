@@ -1,0 +1,26 @@
+name: "rutomate"
+author: "ouxs"
+author_link: "https://github.com/ouxs-19"
+category: reverse
+difficulty: medhard
+description: |
+  > Let's do another classic reverse flag checker challenge.   
+  **Author** : ouxs
+
+flags:
+  - DevFest{It's_All_4b0ut_7h33_J0urney_n0T_th3_DEStin4tion}
+
+files:
+  - challenge/prog
+
+value: 500
+
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 50
+    minimum: 50
+
+state: hidden
+version: "0.1"
