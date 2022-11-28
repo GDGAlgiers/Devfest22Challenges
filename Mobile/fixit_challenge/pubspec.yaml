@@ -33,7 +33,7 @@ dependencies:
     sdk: flutter
   flutter_datetime_picker:
     git: https://github.com/Realank/flutter_datetime_picker.git
-  flutter_riverpod: ^1.0.0
+  
   google_fonts: ^2.1.0
   google_sign_in: ^5.2.4
   logger: ^1.1.0
