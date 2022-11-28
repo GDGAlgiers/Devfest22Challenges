@@ -1,0 +1,27 @@
+name: "K-RSA"
+author: "ouxs"
+author_link: "https://github.com/ouxs-19"
+category: crypto
+difficulty: easy
+description: |
+  > I wanted to play with RSA a bit and came out with this cool idea. I called it K-RSA  
+  **Author** : ouxs
+
+flags:
+  - DevFest22{K-RSAA_An0Th333R_FAILIIING_ID3334}
+
+files:
+  - ./chall.py
+  - ./out
+
+value: 500
+
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 50
+    minimum: 50
+
+state: hidden
+version: "0.1"
