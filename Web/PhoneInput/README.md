@@ -21,6 +21,10 @@ HTML input element of type `tel` is widely used to let the user enter or edit a 
 
 Your task today as our hero designer is to implement a fully functioning phone number input that takes into account all the formats that we want to support, while also providing our users with the visual feedback when the input value is not valid.
 
+### Example
+
+![Phone input example](./assets/phone_input_example.jpeg)
+
 ## Requirements
 
 - The phone input must allow the user to choose the flag of the country.
