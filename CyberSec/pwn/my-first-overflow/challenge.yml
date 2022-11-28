@@ -1,0 +1,26 @@
+author: chenx3n
+author_link: https://github.com/malikDaCoda
+category: pwn
+connection_info: nc -v pwn.chal.ctf.gdgalgiers.com ${PORT}
+description: |
+  > I made this small program that reads your input, but the buffer is kind of small, I hope that won't be a problem!  
+
+  **Author**: chenx3n
+difficulty: easy
+extra:
+  decay: ${DECAY}
+  initial: 500
+  minimum: 50
+files:
+- ./challenge/my-first-overflow
+- ./src/my-first-overflow.c
+flags:
+- DevFest22{BuffER_overfL0Ws_4rE_CO00L}
+image: gcr.io/gdg-ctf-2022/my-first-overflow
+name: My First Overflow
+state: hidden
+tags:
+- warmup
+type: dynamic
+value: 500
+version: '0.1'
