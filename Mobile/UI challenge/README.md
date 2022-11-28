@@ -13,4 +13,4 @@ By using **Flutter Framework**, and as shown in the pictures below, you will wor
 * Notice that you are not allowed to use any third party package to develop the screens.
 
 ## Assets:
-the are available via this link 
+the are available in the assets folder 
