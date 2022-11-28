@@ -1,0 +1,21 @@
+author: rx0f
+author_link: https://github.com/rx0f
+category: reverse
+description: |
+  > Gopher is here to visit us, can you say to welcome him ?.
+
+  **Author**: rx0f
+difficulty: medium
+extra:
+  decay: ${DECAY}
+  initial: 500
+  minimum: 50
+files:
+- ./challenge/challenge.zip
+flags:
+- DevFest22{g0_g0_g0_g0pH3R_61b4c7c615791a6b}
+name: "GOpher"
+state: hidden
+type: dynamic
+value: 500
+version: '0.1'
