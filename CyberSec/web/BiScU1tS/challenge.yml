@@ -1,0 +1,25 @@
+name: BiScU1tS
+author: yh_0x7
+
+category: web
+difficulty: easy
+
+description: |
+  > I baked something very special for you. Can you find it?  
+
+  **Author** : yh_0x7
+
+connection_info: http://devfest22-cybersec.gdgalgiers.com 1602
+
+flags:
+  - DevFest22{KOoOK132_1337}
+
+value: 500
+type: dynamic
+extra:
+    initial: 500
+    decay: 50
+    minimum: 50
+
+state: hidden
+version: '0.1'

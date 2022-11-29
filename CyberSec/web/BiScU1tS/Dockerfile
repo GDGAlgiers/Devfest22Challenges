@@ -1,7 +1,5 @@
 FROM jazzdd/alpine-flask
 
-
-
 COPY ./challenge /challenge
 WORKDIR /challenge
 

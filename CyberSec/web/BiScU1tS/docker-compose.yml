@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+
+  app:
+    build:
+      context: .
+    image: gcr.io/devfest22-challenges/biscuits
+    ports:
+      - '1602:5000'
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+      resources:
+        limits:
+          memory: 300M
