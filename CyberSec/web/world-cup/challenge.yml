@@ -22,7 +22,7 @@ extra:
 
 image: gcr.io/devfest22-challenges/world-cup
 
-connection_info: http://devfest22-cybersec.gdgalgiers.com:${PORT}
+connection_info: http://devfest22-cybersec.gdgalgiers.com:1601
 
 files:
   - files/world-cup.zip

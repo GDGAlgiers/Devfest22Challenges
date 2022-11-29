@@ -3,15 +3,16 @@ version: "3.8"
 services:
   server:
     build: .
+    image: gcr.io/devfest22-challenges/pyjail
     ports:
-      - "1337:1337"
+      - "1200:1337"
     deploy:
       replicas: 1
       restart_policy:
         condition: on-failure
       resources:
         limits:
-          memory: 50M
+          memory: 200M
     healthcheck:
       test: socat - TCP4:localhost:1337 || exit 1
       interval: 60s

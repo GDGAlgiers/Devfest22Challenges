@@ -8,8 +8,11 @@ services:
       dockerfile: Dockerfile
     image: gcr.io/devfest22-challenges/guilds
     ports:
-      - '8000:8000'
+      - '1300:8000'
     deploy:
       replicas: 1
       restart_policy:
         condition: on-failure
+      resources:
+        limits:
+          memory: 400M

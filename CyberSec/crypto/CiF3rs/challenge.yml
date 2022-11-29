@@ -1,13 +1,16 @@
 name: "CiF3rs"
 author: "yh_0x7"
-author_link: "https://github.com/yh-0x7/"
+author_link: "https://github.com/yh-0x7"
 category: crypto
 
-difficulty: med
+difficulty: medium
 description: |
-  > Alice combined some ciphers to encrypt the flag and sent it to Bob.        
-  > Can you find the flag it?          
+  > Alice combined some ciphers to encrypt the flag and sent it to Bob.  
+  > Can you find the flag?  
+
+  **Note** : flag format is `gdg{}`  
   **Author** : yh_0x7    
+
 flags:
   - gdg{Y0U_l34RNt_50M3_845IC_ciPH3R5}     
 
@@ -19,11 +22,8 @@ value: 500
 type: dynamic
 extra:
     initial: 500
-    decay: 15
+    decay: 50
     minimum: 50
 
-tags:
-  - medium
-
-state: visible
+state: hidden
 version: "0.1"

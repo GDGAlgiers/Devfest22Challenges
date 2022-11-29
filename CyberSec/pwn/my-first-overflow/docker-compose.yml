@@ -5,8 +5,15 @@ services:
   server:
     build: .
     ports:
-      - '1337:1337'
-    # image: gcr.io/${PROJECT_ID}/my-first-overflow
+      - '1400:1337'
+    image: gcr.io/devfest22-challenges/my-first-overflow
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+      resources:
+        limits:
+          memory: 100M
     healthcheck:
       test: socat - TCP4:localhost:1337 || exit 1
       interval: 60s

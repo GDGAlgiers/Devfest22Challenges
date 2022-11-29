@@ -1,7 +1,7 @@
 author: chenx3n
 author_link: https://github.com/malikDaCoda
 category: pwn
-connection_info: nc -v pwn.chal.ctf.gdgalgiers.com ${PORT}
+connection_info: nc -v devfest22-cybersec.gdgalgiers.com 1401
 description: |
   > Yeah yeah we know you're a programmer and all, but have you ever heard of return oriented programming?  
   > You might need to look that up to get through this challenge.  
@@ -11,14 +11,14 @@ description: |
   **Author**: chenx3n
 difficulty: medium
 extra:
-  decay: ${DECAY}
+  decay: 50
   initial: 500
   minimum: 50
 files:
 - ./files/rop-it-off.zip
 flags:
 - DevFest22{ROP_F0r_THE_W1n}
-image: gcr.io/gdg-ctf-2022/rop-it-off
+image: gcr.io/devfest22-challenges/rop-it-off
 name: ROP It Off
 state: hidden
 type: dynamic

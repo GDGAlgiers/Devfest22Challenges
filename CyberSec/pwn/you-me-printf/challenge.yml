@@ -1,7 +1,7 @@
 author: chenx3n
 author_link: https://github.com/malikDaCoda
 category: pwn
-connection_info: nc -v pwn.chal.ctf.gdgalgiers.com ${PORT}
+connection_info: nc -v devfest22-cybersec.gdgalgiers.com 1402
 description: |
   > There is no escape, it's just you, me and this printf.  
 
@@ -10,14 +10,14 @@ description: |
   **Author**: chenx3n
 difficulty: hard
 extra:
-  decay: ${DECAY}
+  decay: 50
   initial: 500
   minimum: 50
 files:
 - ./files/you-me-printf.zip
 flags:
 - DevFest22{Pr0gR4m_fLoW_w0rK5_iN_mySt3rioUs_BUT_UNDer$TAndABLe_WAY$}
-image: gcr.io/gdg-ctf-2022/you-me-printf
+image: gcr.io/devfest22-challenges/you-me-printf
 name: "You, Me & Printf"
 state: hidden
 type: dynamic

@@ -5,18 +5,19 @@ category: misc
 difficulty: medium
 description: |
   > I've been testing jails for a while now and none of them managed to keep me.  
+
   **Author** : ouxs
 
 flags:
   - DevFest22{An0th3r_JAIL_g0t_brok333333n}
 
+connection_info: nc -v devfest22-cybersec.gdgalgiers.com 1200
+
 files:
   - challenge/challenge.py
 
 value: 500
-
 type: dynamic
-
 extra:
     initial: 500
     decay: 50

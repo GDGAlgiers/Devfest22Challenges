@@ -5,9 +5,12 @@ services:
   app:
     build: ./app
     ports:
-      - '5000:5000'
+      - '1601:5000'
     image: gcr.io/devfest22-challenges/world-cup
     deploy:
       replicas: 1
       restart_policy:
         condition: on-failure
+      resources:
+        limits:
+          memory: 500M

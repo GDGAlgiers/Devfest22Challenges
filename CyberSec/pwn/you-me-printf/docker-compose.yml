@@ -5,8 +5,15 @@ services:
   server:
     build: .
     ports:
-      - '1337:1337'
-    # image: gcr.io/${PROJECT_ID}/you-me-printf
+      - '1402:1337'
+    image: gcr.io/devfest22-challenges/you-me-printf
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+      resources:
+        limits:
+          memory: 100M
     healthcheck:
       test: socat - TCP4:localhost:1337 || exit 1
       interval: 60s

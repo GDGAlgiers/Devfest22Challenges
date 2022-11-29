@@ -1,14 +1,14 @@
 author: chenx3n
 author_link: https://github.com/malikDaCoda
 category: pwn
-connection_info: nc -v pwn.chal.ctf.gdgalgiers.com ${PORT}
+connection_info: nc -v devfest22-cybersec.gdgalgiers.com 1400
 description: |
   > I made this small program that reads your input, but the buffer is kind of small, I hope that won't be a problem!  
 
   **Author**: chenx3n
 difficulty: easy
 extra:
-  decay: ${DECAY}
+  decay: 50
   initial: 500
   minimum: 50
 files:
@@ -16,7 +16,7 @@ files:
 - ./src/my-first-overflow.c
 flags:
 - DevFest22{BuffER_overfL0Ws_4rE_CO00L}
-image: gcr.io/gdg-ctf-2022/my-first-overflow
+image: gcr.io/devfest22-challenges/my-first-overflow
 name: My First Overflow
 state: hidden
 tags:

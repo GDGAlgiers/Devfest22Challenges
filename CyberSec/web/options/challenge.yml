@@ -5,17 +5,20 @@ category: web
 difficulty: medium
 
 description: |
-  > I opened an online restaurant, do you think you have all the options?
-  
+  > I opened an online restaurant, do you think you have all the options?  
   **Author** : rx0f
 
-connection_info: 
+connection_info: http://devfest22-cybersec.gdgalgiers.com 1600
 
 flags:
   - DevFest22{It5_4ll_4B0uT_0pT10n5}
 
-type: standard
 value: 500
+type: dynamic
+extra:
+    initial: 500
+    decay: 50
+    minimum: 50
 
 state: hidden
 version: '0.1'
