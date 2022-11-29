@@ -1,0 +1,20 @@
+author: rx0f,yh_0x7
+category: forensics
+description: |
+  > Have you ever heard about guilds ?.
+
+  **Author**: rx0f, yh_0x7
+difficulty: medium
+extra:
+  decay: ${DECAY}
+  initial: 500
+  minimum: 50
+files:
+- ./challenge/challenge.zip
+flags:
+- DevFest22{Gu1Ld5_aR3_tH3_b3sT}
+name: "Gu1Ld5"
+state: hidden
+type: dynamic
+value: 500
+version: '0.1'
