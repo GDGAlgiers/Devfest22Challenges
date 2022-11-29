@@ -1,12 +1,12 @@
 author: rx0f,yh_0x7
 category: forensics
 description: |
-  > Have you ever heard about guilds ?.
+  > Have you ever heard about guilds?  
 
   **Author**: rx0f, yh_0x7
 difficulty: medium
 extra:
-  decay: ${DECAY}
+  decay: 50
   initial: 500
   minimum: 50
 files:
