@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+
+  app:
+    build:
+      context: ./challenge
+      dockerfile: Dockerfile
+    image: gcr.io/devfest22-challenges/options
+    ports:
+      - '8000:8000'
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
