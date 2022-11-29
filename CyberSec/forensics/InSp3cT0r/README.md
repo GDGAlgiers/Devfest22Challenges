@@ -4,8 +4,7 @@
 
 ## Description
 
-> Can U become the next inspector gadget???.  
-
+> Can U become the next inspector gadget???
 
 ### Attachments
 

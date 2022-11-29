@@ -1,8 +1,8 @@
 CC=gcc
-CFLAGS=
+CFLAGS=-Wl,-z,relro,-z,now -fstack-protector
 SOURCE=src/you-me-printf.c
-OUTFILE=challenge/you-me-printf
+OUTFILE=out/you-me-printf
 
 build: $(SOURCE)
-	$(CC) $(CFLAGS) -D BuiltWithMake -o $(OUTFILE) $(SOURCE)
+	$(CC) $(SOURCE) $(CFLAGS) -D BuiltWithMake -o $(OUTFILE) 
 	chmod +x $(OUTFILE)

