@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+    <title>World Cup 2022</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='icon' href='/static/images/favicon.png' type='image/png' />
+    <link rel='stylesheet' href='/static/css/main.css' />
+</head>
+<body>
+    <div id="main">
+        <h1 id='title'>World Cup 2022!</h1>
+        <img width="150" src="/static/images/favicon.png" />
+    </div>
+	<div id="main">
+		<h1 id='title'>What country are you supporting?</h1>
+	    <form id='form' action='/' method='POST'>
+		    <div class='input-field'>
+			    <input type='text' name='name' placeholder='name' autocomplete='off' required />
+			    <button type='submit' form='form'>Send</button>
+		    </div>
+	    </form>
+	    <p id='output'></p>
+    </div>
+<script src='/static/js/main.js' type='text/javascript'></script>
+</body>
+</html>

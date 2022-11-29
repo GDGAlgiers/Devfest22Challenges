@@ -1,0 +1,32 @@
+name: "World Cup"
+author: chenx3n
+author_link: https://github.com/malikDaCoda
+
+category: web
+difficulty: hard
+
+description: |
+  > World Cup 2022 has already started so I made this small app to show support for participating teams!  
+  > Nothing could go wrong, right?  
+
+  **Author** : chenx3n
+flags:
+  - DevFest22{p0LLutED_iNJ3ct10N_ftW}
+
+type: dynamic
+value: 500
+extra:
+    initial: 500
+    decay: 50
+    minimum: 50
+
+image: gcr.io/devfest22-challenges/world-cup
+
+connection_info: http://devfest22-cybersec.gdgalgiers.com:${PORT}
+
+files:
+  - files/world-cup.zip
+
+state: hidden
+
+version: "0.1"
