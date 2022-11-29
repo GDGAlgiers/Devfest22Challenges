@@ -1,16 +1,14 @@
 # World Cup
 
-**`Author:`** [chenx3n](https://github.com/malikDaCoda)
+**`Author:`** chenx3n
 
 ## Description
 
 > World Cup 2022 has already started so I made this small app to show support for participating teams!  
 > Nothing could go wrong, right?  
 
-**Connect with** : http://devfest22-cybersec.gdgalgiers.com:${PORT}  
+**Connect with** : http://devfest22-cybersec.gdgalgiers.com:1601
 
-[world-cup.zip](./files/world-cup.zip)
+### Attachments
 
-## Solution
-
-Solution of the challenge can be found [here](solution/).
+[world-cup.zip](./world-cup.zip)

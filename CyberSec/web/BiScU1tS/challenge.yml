@@ -9,7 +9,7 @@ description: |
 
   **Author** : yh_0x7
 
-connection_info: http://devfest22-cybersec.gdgalgiers.com 1602
+connection_info: http://devfest22-cybersec.gdgalgiers.com:1602
 
 flags:
   - DevFest22{KOoOK132_1337}

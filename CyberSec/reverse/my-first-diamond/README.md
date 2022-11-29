@@ -4,6 +4,8 @@
 
 ## Description
 
-> I used diamonds to verify the input, can you find the correct result ?.
+> I used diamonds to verify the input, can you find the correct result?  
 
-[diamonds.rb](challenge/diamonds.rb)
+### Attachments
+
+[my-first-diamond.zip](./my-first-diamond.zip)

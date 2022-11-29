@@ -2,12 +2,12 @@ author: rx0f
 author_link: https://github.com/rx0f
 category: reverse
 description: |
-  > Gopher is here to visit us, can you say to welcome him ?.
+  > Gopher is here to visit us, can you say welcome him ?  
 
   **Author**: rx0f
 difficulty: medium
 extra:
-  decay: ${DECAY}
+  decay: 50
   initial: 500
   minimum: 50
 files:

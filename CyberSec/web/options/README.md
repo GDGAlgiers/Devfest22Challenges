@@ -1,9 +1,9 @@
 # OPTIONS
 
-**`Author:`** [rx0f](https://github.com/rx0f)
+**`Author:`** rx0f
 
 ## Description
 
-> I opened an online restaurant, do you think you have all the options?
+> I opened an online restaurant, do you think you have all the options?  
 
-**Link** : CHALLENGE_LINK
+**Connect with**: http://devfest22-cybersec.gdgalgiers.com:1600

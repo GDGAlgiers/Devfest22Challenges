@@ -1,6 +1,6 @@
 # You, Me & Printf
 
-**`Author:`** [chenx3n](https://github.com/malikDaCoda)
+**`Author:`** chenx3n
 
 ## Description
 
@@ -8,10 +8,6 @@
 
 **Note**: The binary is already patched to use the provided libc and linker.  
 
-**Connect with**: `nc -v pwn.challs.ctf.gdgalgiers.com ${PORT}`  
+**Connect with**: `nc -v devfest22-cybersec.gdgalgiers.com 1402`
 
-[you-me-printf.zip](files/you-me-printf.zip)
-
-## Solution
-
-Solution of the challenge can be found [here](solution/).
+[you-me-printf.zip](./you-me-printf.zip)

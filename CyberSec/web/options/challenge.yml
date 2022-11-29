@@ -8,7 +8,7 @@ description: |
   > I opened an online restaurant, do you think you have all the options?  
   **Author** : rx0f
 
-connection_info: http://devfest22-cybersec.gdgalgiers.com 1600
+connection_info: http://devfest22-cybersec.gdgalgiers.com:1600
 
 flags:
   - DevFest22{It5_4ll_4B0uT_0pT10n5}

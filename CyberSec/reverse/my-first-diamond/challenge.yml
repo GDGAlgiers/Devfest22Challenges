@@ -2,12 +2,11 @@ author: rx0f
 author_link: https://github.com/rx0f
 category: reverse
 description: |
-  > I used diamonds to verify the input, can you find the correct result ?. 
-
+  > I used diamonds to verify the input, can you find the correct result?  
   **Author**: rx0f
 difficulty: easy
 extra:
-  decay: ${DECAY}
+  decay: 50
   initial: 500
   minimum: 50
 files:

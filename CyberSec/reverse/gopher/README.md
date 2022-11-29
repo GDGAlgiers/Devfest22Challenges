@@ -4,6 +4,8 @@
 
 ## Description
 
-> Gopher is here to visit us, can you say to welcome him ?.
+> Gopher is here to visit us, can you say welcome him ?
 
-[challenge.zip](challenge/challenge.zip)
+### Attachments
+
+[gopher.zip](./gopher.zip)
