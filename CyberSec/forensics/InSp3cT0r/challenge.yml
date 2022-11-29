@@ -1,0 +1,27 @@
+name: "InSp3cT0r"
+author: "yh_0x7"
+author_link: "https://github.com/yh-0x7/"
+category: forensics
+
+difficulty: ez
+description: |
+  > Can U become the next inspector gadget???   
+  **Author** : yh_0x7    
+flags:
+  - DevFest22{In5PeCtooor_G4dG3T}     
+
+files:
+
+
+value: 500
+type: dynamic
+extra:
+    initial: 500
+    decay: 15
+    minimum: 50
+
+tags:
+  - medium
+
+state: visible
+version: "0.1"
