@@ -5,7 +5,7 @@ from pwn import *
 exe = ELF("./you-me-printf")
 libc = exe.libc
 
-HOST, PORT = "localhost", 1402
+HOST, PORT = "devfest22-cybersec.gdgalgiers.com", 1402
 
 context.binary = exe
 context.terminal = ["tmux", "splitw", "-h", "-p", "75"]

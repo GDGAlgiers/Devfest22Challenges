@@ -5,7 +5,7 @@ from pwn import *
 exe = ELF("./rop-it-off")
 libc = exe.libc
 
-HOST, PORT = "localhost", 1337
+HOST, PORT = "devfest22-cybersec.gdgalgiers.com", 1401
 
 context.binary = exe
 context.terminal = ["tmux", "splitw", "-h", "-p", "75"]

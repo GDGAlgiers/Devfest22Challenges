@@ -3,7 +3,7 @@ from pwn import *
 
 exe = ELF("./my-first-overflow")
 
-HOST, PORT = "localhost", 1337
+HOST, PORT = "devfest22-cybersec.gdgalgiers.com", 1400
 
 context.binary = exe
 
