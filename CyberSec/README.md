@@ -5,6 +5,7 @@ You are brave enough to enter here! let's see your knowledge about Cyber securit
 ### Challenges
 
 - [Crypto challenge](./crypto)
+- [Forensics challenge](./forensics)
 - [Misc challenge](./misc)
 - [Pwn challenge](./pwn)
 - [Reverse challenge](./reverse)
