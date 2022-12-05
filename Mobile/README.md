@@ -1,6 +1,6 @@
 ## Devfest22 Mobile Track
 
-You are brave enough to enter here! let's see your knowledge about mobile
+I heard that you're a mobile master! can you prove it?
 
 ### Challenges
 

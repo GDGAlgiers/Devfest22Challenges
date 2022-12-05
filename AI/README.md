@@ -1,10 +1,15 @@
 ## Devfest22 AI Track
 
-You are brave enough to enter here! let's see your knowledge about AI.
+Can you beat the AI?
 
 ### Challenges
 
-- [Autoregressive challenge](<./Autoregressive%20(Medium)>)
-- [Chinese challenge](<./Chinese%20(Medium)>)
-- [Generation challenge](<./Generation%20(Easy)>)
+- [Autoregressive challenge](<./Autoregressive>)
+- [Chinese challenge](<./Chinese>)
+- [CLUSTERING challenge](<./CLUSTERING>)
+- [CWT challenge](<./CWT>)
+- [DENOISING challenge](<./DENOISING>)
+- [EDA challenge](<./EDA>)
+- [Generation challenge](<./Generation>)
+- [HE!P challenge](<./HE!P>)
 - [Influence challenge](./Influence)

@@ -1,3 +1,0 @@
-# GENERATION
-
-Wait to capture.

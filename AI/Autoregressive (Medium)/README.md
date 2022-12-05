@@ -1,3 +1,0 @@
-# Autoregressive
-
-Find the flag.
